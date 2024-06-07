@@ -8,3 +8,5 @@ const isUserLogged = (token) =>{
 }
 
 console.log('adding log');
+console.log('adding log1');
+console.log('adding log2');
